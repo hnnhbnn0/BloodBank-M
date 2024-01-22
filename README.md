@@ -51,10 +51,10 @@ The project is a collaborative effort between:
 To run the project, follow these steps:
 
 1. Set up MongoDB database and configure the connection in the backend.
-2. Navigate to the `backend/` directory and run `npm install` to install backend dependencies.
-3. Run `npm start` in the `backend/` directory to start the backend server.
-4. Navigate to the `frontend/` directory and run `npm install` to install frontend dependencies.
-5. Run `npm start` in the `frontend/` directory to start the React development server.
+2. Navigate to the `server/` directory and run `npm install` to install backend dependencies.
+3. Run `npm start` in the `server/` directory to start the backend server.
+4. Navigate to the `react/` directory and run `npm install` to install frontend dependencies.
+5. Run `npm start` in the `react/` directory to start the React development server.
 
 Access the system through the provided URL.
 
